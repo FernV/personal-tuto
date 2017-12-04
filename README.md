@@ -15,3 +15,4 @@ git
 
 git2
 shop2
+shop3
