@@ -14,3 +14,4 @@ encore shop
 git
 
 git2
+shop2
